@@ -1,0 +1,12 @@
+D:\4_сем\паттерны\Lab5Lib\bin\Debug\net6.0\Lab5Lib.deps.json
+D:\4_сем\паттерны\Lab5Lib\bin\Debug\net6.0\Lab5Lib.dll
+D:\4_сем\паттерны\Lab5Lib\bin\Debug\net6.0\Lab5Lib.pdb
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\Lab5Lib.csproj.AssemblyReference.cache
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\Lab5Lib.AssemblyInfoInputs.cache
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\Lab5Lib.AssemblyInfo.cs
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\Lab5Lib.csproj.CoreCompileInputs.cache
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\Lab5Lib.dll
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\refint\Lab5Lib.dll
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\Lab5Lib.pdb
+D:\4_сем\паттерны\Lab5Lib\obj\Debug\net6.0\ref\Lab5Lib.dll
